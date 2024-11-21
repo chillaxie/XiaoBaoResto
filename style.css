@@ -57,3 +57,15 @@ footer {
         margin: 10px 0;
     }
 }
+:root {
+    --primary-color: #c0392b;
+    --background-color: #f8f8f8;
+    --section-background: white;
+}
+header {
+    background-color: var(--primary-color);
+}
+
+section {
+    background-color: var(--section-background);
+}
